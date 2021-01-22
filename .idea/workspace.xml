@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="34200825-0723-413b-99cb-ffa114380acc" name="Default Changelist" comment="" />
+    <list default="true" id="34200825-0723-413b-99cb-ffa114380acc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Demo0/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/APM-Demo0/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Demo0/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/APM-Demo0/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Demo0/src/app/products/product-list/product-list.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/APM-Demo0/src/app/products/product-list/product-list.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Demo0/src/app/products/state/product.reducer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/APM-Demo0/src/app/products/state/product.reducer.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Demo00/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/APM-Demo00/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Demo00/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/APM-Demo00/src/app/app.module.ts" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,6 +19,11 @@
     <execution />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
@@ -28,13 +41,25 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TF_FMT" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/APM-Demo0/src/app" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
     <property name="settings.editor.splitter.proportion" value="0.21170282" />
+    <property name="ts.external.directory.path" value="D:\self\projects\ngrx-demo\APM-Demo00\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\self\projects\ngrx-demo\APM-Demo0\src\app" />
+      <recent name="D:\self\projects\ngrx-demo\APM-Demo0\src\app\products\state" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -87,16 +112,101 @@
       <option name="presentableId" value="Default" />
       <updated>1611273884749</updated>
       <workItem from="1611273886475" duration="95000" />
+      <workItem from="1611274092735" duration="2484000" />
     </task>
+    <task id="LOCAL-00001" summary="1) create state/products reducer">
+      <created>1611274900144</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1611274900144</updated>
+    </task>
+    <task id="LOCAL-00002" summary="2) add products reducer to module">
+      <created>1611274977075</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1611274977075</updated>
+    </task>
+    <task id="LOCAL-00003" summary="3) update ProductListComponent">
+      <created>1611275262926</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1611275262926</updated>
+    </task>
+    <task id="LOCAL-00004" summary="4) Create const action">
+      <created>1611275817715</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1611275817715</updated>
+    </task>
+    <task id="LOCAL-00005" summary="5) update reducer">
+      <created>1611275854327</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1611275854327</updated>
+    </task>
+    <task id="LOCAL-00006" summary="6) update ProductListComponent">
+      <created>1611275888450</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1611275888450</updated>
+    </task>
+    <task id="LOCAL-00007" summary="7) create app.state">
+      <created>1611276317641</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1611276317641</updated>
+    </task>
+    <task id="LOCAL-00008" summary="8) add interface">
+      <created>1611276561727</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1611276561727</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1) create state/products reducer" />
+    <MESSAGE value="2) add products reducer to module" />
+    <MESSAGE value="3) update ProductListComponent" />
+    <MESSAGE value="4) Create const action" />
+    <MESSAGE value="5) update reducer" />
+    <MESSAGE value="6) update ProductListComponent" />
+    <MESSAGE value="7) create app.state" />
+    <MESSAGE value="8) add interface" />
+    <option name="LAST_COMMIT_MESSAGE" value="8) add interface" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="585" y="68" key="CommitChangelistDialog2" timestamp="1611276561131">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="585" y="68" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1611276561131" />
+    <state x="184" y="85" key="DiffContextDialog" timestamp="1611276557667">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="184" y="85" key="DiffContextDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1611276557667" />
     <state x="2660" y="284" key="FileChooserDialogImpl" timestamp="1611273985619">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2660" y="284" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1611273985619" />
+    <state x="552" y="240" key="Vcs.Push.Dialog.v2" timestamp="1611275891876">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="240" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1611275891876" />
+    <state x="769" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1611274108557">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="769" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1611274108557" />
   </component>
 </project>
